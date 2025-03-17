@@ -26,3 +26,4 @@ export default function Step1(nextStep, formData, updateFormData) {
 
     return container;
 }
+//Step1.js
